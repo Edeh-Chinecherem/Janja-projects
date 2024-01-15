@@ -22,8 +22,11 @@ git commit -m "Commit message"
 git push
 ```
 
-Pull
+4. Pull
 
 ```bash
 git pull
 ```
+
+## Set up is now configured
+
