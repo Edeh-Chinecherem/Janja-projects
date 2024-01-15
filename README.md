@@ -4,6 +4,15 @@ I am demonstrating my skill of adding files from my local machine to my remote g
 
 ## Commands recap
 
-- `bash git add`
-- `bash git commit -m "Commit message"`
-- `bash git push`
+Add
+```bash 
+git add
+```
+Commit
+```bash
+git commit -m "Commit message"
+```
+Push
+```bash 
+git push
+```
