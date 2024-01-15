@@ -5,18 +5,25 @@ I am demonstrating my skill of adding files from my local machine to my remote g
 ## Commands recap
 
 Add
-```bash 
+
+```bash
 git add
 ```
+
 Commit
+
 ```bash
 git commit -m "Commit message"
 ```
+
 Push
-```bash 
+
+```bash
 git push
 ```
+
 Pull
+
 ```bash
-git pul
+git pull
 ```
