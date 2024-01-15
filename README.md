@@ -4,6 +4,6 @@ I am demonstrating my skill of adding files from my local machine to my remote g
 
 ## Commands recap
 
-- `git add`
-- `git commit -m "Commit message"`
-- `git push`
+- `bash git add`
+- `bash git commit -m "Commit message"`
+- `bash git push`
