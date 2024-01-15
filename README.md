@@ -16,3 +16,7 @@ Push
 ```bash 
 git push
 ```
+Pull
+```bash
+git pul
+```
