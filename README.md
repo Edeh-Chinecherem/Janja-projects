@@ -4,19 +4,19 @@ I am demonstrating my skill of adding files from my local machine to my remote g
 
 ## Commands recap
 
-Add
+1. Add
 
 ```bash
 git add
 ```
 
-Commit
+2. Commit
 
 ```bash
 git commit -m "Commit message"
 ```
 
-Push
+3. Push
 
 ```bash
 git push
