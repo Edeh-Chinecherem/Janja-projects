@@ -31,3 +31,4 @@ git pull
 ## Set up is now configured
 
 - Removed the passphrase
+- Great session
